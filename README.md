@@ -1,4 +1,4 @@
-# 👋 안녕하세요, @ijustwannabeme입니다!
+# 👋 안녕하세요, 모준우입니다!
 
 <p align="center">
   <img src="https://github.com/ijustwannabeme/ijustwannabeme/blob/main/4ea484cbab5210d83a00afa8a937e76e.jpg?raw=true" alt="프로필 사진" width="200"/>
