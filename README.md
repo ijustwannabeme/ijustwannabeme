@@ -25,7 +25,7 @@
 - 🤖 인공지능
 
 ## 📁 프로젝트 링크
-- [데이터 과학 프로젝트](https://github.com/ijustwannabeme/datascienceproject)
+- [데이터 과학 프로젝트](https://github.com/ijustwannabeme/DataAnalysisCapstoneDesign)
 - [음악 관련 프로젝트](https://github.com/ijustwannabeme/musicproject)
 
 ## 📫 연락처
