@@ -1,5 +1,7 @@
 # 👋 안녕하세요, 모준우입니다!
 
+![프로필 사진](https://github.com/ijustwannabeme/ijustwannabeme/blob/main/4ea484cbab5210d83a00afa8a937e76e.jpg?raw=true)
+
 ## 🙋‍♂️ 소개
 음악을 사랑하는 데이터 과학자 지망생입니다. 현재 경희대학교에서 데이터 과학을 전공하고 있으며, 금융 IT 분야에도 깊은 관심을 가지고 있습니다.
 
