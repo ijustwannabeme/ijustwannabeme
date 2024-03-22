@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ijustwannabeme
 - 👀 I’m interested in music
 - 🌱 I’m currently learning data science track in KHU
-- 💞️ I’m looking to collaborate on ...
+- 💞️ now i am studying financial IT
 - 📫 How to reach me ... liarcrown@naver.com
 
 <!---
