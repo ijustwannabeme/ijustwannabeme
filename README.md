@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 모준우입니다!
+# 👋 안녕하세요, "무한도전" 모준우입니다!
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=This%20is%20My%20GitHub&fontSize=40&rotate=13&fontAlignY=25&desc=My%20Name%20is%20Joonwoo&descAlignY=45&animation=blinking)
 
@@ -47,7 +47,7 @@
 
 
 ## 🔍 <a name="관심-있는-분야"></a>관심 있는 분야
-- 🎵 음악
+- 🎵 음악,영화
 - 💹 금융 IT
 - 📊 빅데이터
 - 🤖 인공지능
@@ -61,6 +61,4 @@
 ## 📫 <a name="연락처"></a>연락처
 궁금한 점이 있으시다면 언제든지 이메일로 연락주세요: [liarcrown@naver.com](mailto:liarcrown@naver.com)
 
----
-
-이미 GitHub에서의 여정이 시작됐습니다. 여기서 만나게 되어 반갑습니다! 관심 분야가 겹치거나, 프로젝트에서 협업을 원하시는 분은 언제든지 연락주세요.
+----
