@@ -1,4 +1,4 @@
-# 👋 안녕하세요, "무한도전" 모준우입니다!
+# 👋 안녕하세요, "무도" 모준우입니다!
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=This%20is%20My%20GitHub&fontSize=40&rotate=13&fontAlignY=25&desc=My%20Name%20is%20Joonwoo&descAlignY=45&animation=blinking)
 
