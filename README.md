@@ -30,10 +30,17 @@
 데이터 과학과 금융 IT의 결합을 통해 혁신적인 솔루션을 개발하는 것이 제 꿈입니다. 이 분야에서 의미 있는 발자취를 남기고 싶습니다.
 
 ## 💻 <a name="할-수-있는-언어"></a>할 수 있는 언어
-| 언어 | 설명 |
-|------|------|
-| Python | 데이터 분석 및 머신러닝 |
-| SQL | 데이터베이스 관리 |
+<img src="https://skillicons.dev/icons?i=html,css,python" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijustwannabeme)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 GitHub 통계
+
+<p align="center">
+  <a href="https://github.com/ijustwannabeme">
+    <img src="https://github-readme-stats.vercel.app/api?username=ijustwannabeme&show_icons=true&theme=radical" alt="모준우의 GitHub 통계" />
+  </a>
+</p>
+
 
 ## 🔍 <a name="관심-있는-분야"></a>관심 있는 분야
 - 🎵 음악
