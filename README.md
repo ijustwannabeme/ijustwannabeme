@@ -1,8 +1,12 @@
 # 👋 안녕하세요, 모준우입니다!
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=This%20is%20My%20GitHub&fontSize=40&rotate=13&fontAlignY=25&desc=My%20Name%20is%20Joonwoo&descAlignY=45&animation=blinking)
+
+
 <p align="center">
-  <img src="https://github.com/ijustwannabeme/ijustwannabeme/blob/main/4ea484cbab5210d83a00afa8a937e76e.jpg?raw=true" alt="프로필 사진" width="200"/>
+  <img src="https://github.com/ijustwannabeme/ijustwannabeme/blob/main/KakaoTalk_20240324_141828030.jpg?raw=true" alt="프로필 사진" width="200"/>
 </p>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/ijustwannabeme?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/ijustwannabeme/yourrepository?style=social)
@@ -49,8 +53,10 @@
 - 🤖 인공지능
 
 ## 📁 <a name="프로젝트-링크"></a>프로젝트 링크
-- [데이터 과학 프로젝트](https://github.com/ijustwannabeme/DataAnalysisCapstoneDesign)
-- [음악 관련 프로젝트](https://github.com/ijustwannabeme/musicproject)
+- [소셜 키워드 데이터 기반 추천 시스템](https://github.com/ijustwannabeme/DataAnalysisCapstoneDesign)
+- [그래프 합성곱을 이용한 음악 추천 시스템](https://github.com/ijustwannabeme/GCN_spotify)
+- [뉴스 기사 모멘텀 팩터 분석 및 백테스트](https://github.com/ijustwannabeme/FDA_newsFactor)
+- [사회적 취약 계층을 위한 법률 도우미 LegalMate](https://github.com/ijustwannabeme/LawMate)
 
 ## 📫 <a name="연락처"></a>연락처
 궁금한 점이 있으시다면 언제든지 이메일로 연락주세요: [liarcrown@naver.com](mailto:liarcrown@naver.com)
