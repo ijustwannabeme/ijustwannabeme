@@ -34,9 +34,8 @@
 데이터 과학과 금융 IT의 결합을 통해 혁신적인 솔루션을 개발하는 것이 제 꿈입니다. 이 분야에서 의미 있는 발자취를 남기고 싶습니다.
 
 ## 💻 <a name="할-수-있는-언어"></a>할 수 있는 언어
-<img src="https://skillicons.dev/icons?i=html,css,python" />
+<img src="https://skillicons.dev/icons?i=html,css,python,cpp,java,docker,flutter,sql" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ijustwannabeme)](https://github.com/anuraghazra/github-readme-stats)
 ## 📈 GitHub 통계
 
 <p align="center">
