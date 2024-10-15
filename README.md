@@ -50,7 +50,7 @@
 </p>
 
 <a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=${ijustwannabeme}&theme=${theme}&userFetchType=${userFetchType}" width="600px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=ijustwannabeme&theme=desert&userFetchType=mutual" width="600px" />
 </a>
 
 ## 🔍 <a name="관심-있는-분야"></a>관심 있는 분야
