@@ -24,6 +24,10 @@
 사람들에게 행복을 주기위해 성장하는 개발자 모준우입니다. 다양한 경험을 통해 성장하고 있습니다!
 음악, 영화, 운동 등 여러가지 좋아하고, 여러가지를 도전하려고 하고 있습니다!
 
+<a href="https://github.com/doongjun/commitmon">
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=${ijustwannabeme}&theme=${desert}&userFetchType=${mutual}" width="600px" />
+</a>
+
 ## 🎓 <a name="이수-중인-과정"></a>이수 중인 과정
 
 - 산업경영공학 @ 경희대학교
